@@ -1,0 +1,10 @@
+# ignore all the numpy model files
+*.npy
+#
+__pycache__/
+.venv/
+*.egg-info/
+build/
+dist/
+*.npz
+
