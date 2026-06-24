@@ -1,4 +1,4 @@
-# Neutronix
+# NEUTRONIX
 
 Neutronix is a simple-to-use ML library built from scratch using NumPy.
 
