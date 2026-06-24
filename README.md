@@ -68,7 +68,7 @@ predictions = model.predict(X_train)
 - [ ] Make it more modular by creating subclasses for `load` and `save` inheriting them
 - [ ] Add more optimizers
 - [ ] Unstubbing the loss function
-
+- [ ] Add A Documentation
 ---
 
 ## Repository History
